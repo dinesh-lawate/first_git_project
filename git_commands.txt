@@ -8,5 +8,5 @@ Git Commands
 7. git diff first_file.txt (It will give you diffrence between first_file.txt in working directory and repository)
 8. git diff --staged(It will give you difference between staged index and repository)
 9. git rm (Used to remove files form repository)
-
+10.git mv filename1.txt filename2.txt(Used to rename/move files)
 
