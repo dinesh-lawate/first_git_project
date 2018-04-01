@@ -6,3 +6,7 @@ Git Commands
 5. git status (It checks working directory, staging index and repository are in sync or not)
 6. git diff (It will give you diffrence between working directory and repository)
 7. git diff first_file.txt (It will give you diffrence between first_file.txt in working directory and repository)
+8. git diff --staged(It will give you difference between staged index and repository)
+9. git rm (Used to remove files form repository)
+
+
