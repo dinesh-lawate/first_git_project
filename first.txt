@@ -3,3 +3,6 @@ Git Commands
 2. git add . (Here dot means current directory)
 3. git commit -m "Initial commit"
 4. git log
+5. git status (It checks working directory, staging index and repository are in sync or not)
+6. git diff (It will give you diffrence between working directory and repository)
+7. git diff first_file.txt (It will give you diffrence between first_file.txt in working directory and repository)
