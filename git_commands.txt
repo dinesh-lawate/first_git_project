@@ -9,4 +9,8 @@ Git Commands
 8. git diff --staged(It will give you difference between staged index and repository)
 9. git rm (Used to remove files form repository)
 10.git mv filename1.txt filename2.txt(Used to rename/move files)
-
+11.git remote -v (Lists remote repo alias with their url)
+12.git remote add [Aliase_Name] [Url](Add a alias [Aliase_Name] for the repo at [Url])
+12.git remote remove [Aliase_Name] (Remove a alias [Aliase_Name])
+13.git pull [Aliase_Name] [Branch_Name](Get changes in remote repo on local repo)
+14.git push [Aliase_Name] [Branch_Name](Push changes in local repo to remote repo)
